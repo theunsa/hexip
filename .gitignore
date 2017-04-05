@@ -15,4 +15,4 @@ nosetests.xml
 .noseids
 
 # Other
-*.un~
+*.un\~

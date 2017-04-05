@@ -23,6 +23,6 @@ def ip4_to_hex(ipstr):
 
     iplist = [int(v) for v in ipstr.split('.')]
     if not validate_ip4(iplist):
-        raise Exception("Not valid IPv4 address.")
+        raise AttributeError("Not valid IPv4 address.")
     hexip = "%0.2X%0.2X%0.2X%0.2X" % tuple(iplist)
     return hexip

@@ -8,7 +8,8 @@ setup(
     author='Theuns Alberts',
     author_email='theunsa@gmail.com',
     license='MIT',
-    packages=['hexpi'],
+    packages=['hexip'],
+    scripts=['scripts/hexip'],
     zip_safe=False
 )
 

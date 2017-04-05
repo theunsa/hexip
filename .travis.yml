@@ -1,2 +1,2 @@
 language: python
-script: python hexip/test/test_hexip.py
+script: nosetests

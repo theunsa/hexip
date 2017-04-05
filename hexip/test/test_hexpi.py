@@ -1,3 +1,9 @@
+"""
+MIT License
+
+Copyright (c) 2017 Theuns Alberts
+"""
+
 import unittest
 import hexip
 

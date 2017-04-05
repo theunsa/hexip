@@ -1,4 +1,4 @@
-https://travis-ci.org/theunsa/hexpi.svg?branch=master
+[![Build Status](https://travis-ci.org/theunsa/hexpi.svg?branch=master)](https://travis-ci.org/theunsa/hexpi)
 
 # hexip
 Simple tool to convert IPv4 address to hex

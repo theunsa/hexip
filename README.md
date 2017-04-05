@@ -1,3 +1,5 @@
+https://travis-ci.org/theunsa/hexpi.svg?branch=master
+
 # hexip
 Simple tool to convert IPv4 address to hex
 

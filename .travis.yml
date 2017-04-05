@@ -1,0 +1,2 @@
+language: python
+script: python hexpi/tests/test_hexpi.py
